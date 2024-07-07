@@ -1,6 +1,6 @@
 # $${\color{purple}tulip}$$
 
->"Everything will be alright as long as you have your -ing potato." - Mr. Tulip, _The Truth_, by Terry Pratchett
+>"Everything will be alright as long as you have your -ing potato." - Mr. Tulip, to Mr. Pin, _The Truth_, by Terry Pratchett
 
 >"See a pin and pick it up, and all day long you’ll have a pin!" - Stanley Howler, _Going Postal_, by Terry Pratchett
 
