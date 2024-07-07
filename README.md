@@ -26,3 +26,5 @@ A full pin mod for the AB motor mounts, XY gantry joints and front idler tension
 https://github.com/VoronDesign/Voron-0
 
 https://vorondesign.com
+
+**GNU Terry Pratchett**
