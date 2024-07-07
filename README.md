@@ -5,7 +5,8 @@ This mod mounts the AB motors solidly to the V0 frame, meaning no more shunting 
 
 This Mod supports both MGN7H and MGN9C setups with no travel loss. also special attention has been made to keep pins to standard off the shelf sizes (for those unable to cut their own)
 
-![V0 2R1 AB Pin 1](https://github.com/Amekyras/tulip/assets/94327757/466d0224-228c-460e-9839-762bed13f5d4)
+![V0 2R1 AB Pin 1](https://github.com/Amekyras/tulip/assets/94327757/2334f2fe-ea59-4272-a482-91458820e2e0)
+
 
 ![V0 2R1 XY Pin 1](https://github.com/Amekyras/tulip/assets/94327757/f6ef2c14-dcae-4d3b-bead-6299d7465112)
 
