@@ -1,9 +1,16 @@
 # $${\color{purple}tulip}$$
-A Full pin mod AB motor Mounts, XY gantry joints and front idler tensioners for the Voron v0.2
 
-This mod mounts the AB motors solidly to the V0 frame, meaning no more shunting them back and forth with a bulky tensioning nut. Tension is now applied through an M3 screw in the front idlers, and all bearing stacks run on pins rather than screws.
+>"Everything will be alright as long as you have your -ing potato." - Mr. Tulip, _The Truth_, by Terry Pratchett
 
-This Mod supports both MGN7H and MGN9C setups with no travel loss. also special attention has been made to keep pins to standard off the shelf sizes (for those unable to cut their own)
+>"See a pin and pick it up, and all day long you’ll have a pin!" - Stanley Howler, _Going Postal_, by Terry Pratchett
+
+A full pin mod for the AB motor mounts, XY gantry joints and front idler tensioners for the Voron v0.2
+
+ - This mod mounts the AB motors solidly to the V0 frame, meaning no more shunting them back and forth with a bulky tensioning nut.
+ - Tension is now applied through an M3 screw in the front idlers, and all bearing stacks run on pins rather than screws.
+ - MGN7H (stock) and MGN9C X rails are supported, with no travel loss.
+ - Pins are standard M3 off-the-shelf sizing, for those unable to cut their own
+
 
 ![V0 2R1 AB Pin 1](https://github.com/Amekyras/tulip/assets/94327757/2334f2fe-ea59-4272-a482-91458820e2e0)
 
