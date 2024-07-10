@@ -17,9 +17,9 @@ A full pin mod for the AB motor mounts, XY gantry joints and front idler tension
 
 ![V0 2R1 XY Pin 1](https://github.com/Amekyras/tulip/assets/94327757/f6ef2c14-dcae-4d3b-bead-6299d7465112)
 
-![V0 2R1 Idler Tensioners 1](https://github.com/Amekyras/tulip/assets/94327757/aefca718-e0f8-425c-8286-5e42260c5f51)
+![V0 2R1 Idler Tensioners](https://github.com/Amekyras/tulip/assets/94327757/4f11de3a-fce1-4261-a26b-d59bcf17d914)
 
-![V0 2 idler Tensioners Cut](https://github.com/Amekyras/tulip/assets/94327757/51605596-c853-4ada-9a61-7c2d4fa823d3)
+![V0 2R1 Idler Tensioners Cut](https://github.com/Amekyras/tulip/assets/94327757/6c2ed4f8-4897-47bb-b8ae-8113dea347f6)
 
  Links to original source material
 
@@ -28,3 +28,4 @@ https://github.com/VoronDesign/Voron-0
 https://vorondesign.com
 
 **GNU Terry Pratchett**
+
