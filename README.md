@@ -29,3 +29,10 @@ https://vorondesign.com
 
 **GNU Terry Pratchett**
 
+**CHANGE LOG**
+cad v24
+Idler tensioners static body is now one piece and printed on its side
+Idler tensioners lock screw is now static with slot in tensioner parts
+XY joints had some holes resized and some minor corrections
+Spacers - new fillet chamfer design (fillamfer)
+AB Motor mounts plates and mid parts have locating tabs to secure each other together for more secure umbilical plate attachment
