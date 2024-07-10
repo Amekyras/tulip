@@ -24,6 +24,8 @@ A full pin mod for the AB motor mounts, XY gantry joints and front idler tension
 
 > **CHANGE LOG**
 
+10/07/24
+
 CAD v24 release
 
 Idler tensioners static body is now one piece and printed on its side
@@ -37,7 +39,7 @@ Spacers - new fillet chamfer design (fillamfer)
 AB Motor mounts plates and mid parts have locating tabs to secure each other together for more secure umbilical plate attachment
 
 
- Links to original source material
+**Links to original source material**
 
 https://github.com/VoronDesign/Voron-0
 
