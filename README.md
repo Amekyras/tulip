@@ -31,7 +31,9 @@ https://vorondesign.com
 
 
 > **CHANGE LOG**
-cad v24
+
+CAD v24 release
+
 Idler tensioners static body is now one piece and printed on its side
 
 Idler tensioners lock screw is now static with slot in tensioner parts
