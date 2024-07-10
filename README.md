@@ -21,14 +21,6 @@ A full pin mod for the AB motor mounts, XY gantry joints and front idler tension
 
 ![V0 2R1 Idler Tensioners Cut](https://github.com/Amekyras/tulip/assets/94327757/6c2ed4f8-4897-47bb-b8ae-8113dea347f6)
 
- Links to original source material
-
-https://github.com/VoronDesign/Voron-0
-
-https://vorondesign.com
-
-**GNU Terry Pratchett**
-
 
 > **CHANGE LOG**
 
@@ -43,3 +35,12 @@ XY joints had some holes resized and some minor corrections
 Spacers - new fillet chamfer design (fillamfer)
 
 AB Motor mounts plates and mid parts have locating tabs to secure each other together for more secure umbilical plate attachment
+
+
+ Links to original source material
+
+https://github.com/VoronDesign/Voron-0
+
+https://vorondesign.com
+
+**GNU Terry Pratchett**
