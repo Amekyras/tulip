@@ -38,6 +38,8 @@ Spacers - new fillet chamfer design (fillamfer)
 
 AB Motor mounts plates and mid parts have locating tabs to secure each other together for more secure umbilical plate attachment
 
+Tools added - Bearing insert tool & Drill jig for access to tensioner locking screw
+
 
 **Links to original source material**
 
