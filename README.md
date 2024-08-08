@@ -14,7 +14,6 @@ A full pin mod for the AB motor mounts, XY gantry joints and front idler tension
 
 ![V0 2R1 AB Pin 1](https://github.com/Amekyras/tulip/assets/94327757/2334f2fe-ea59-4272-a482-91458820e2e0)
 
-
 ![V0 2R1 XY Pin 1](https://github.com/Amekyras/tulip/assets/94327757/f6ef2c14-dcae-4d3b-bead-6299d7465112)
 
 ![V0 2R1 Idler Tensioners](https://github.com/Amekyras/tulip/assets/94327757/4f11de3a-fce1-4261-a26b-d59bcf17d914)
@@ -54,6 +53,7 @@ AB Motor mounts plates and mid parts have locating tabs to secure each other tog
 
 Tools added - Bearing insert tool & Drill jig for access to tensioner locking screw
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Links to original source material**
 
