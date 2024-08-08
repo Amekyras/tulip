@@ -24,6 +24,20 @@ A full pin mod for the AB motor mounts, XY gantry joints and front idler tension
 
 > **CHANGE LOG**
 
+08/08/24
+
+CAD v25 release
+
+Idler tensioners static body had printability update to make B side easier to print (less chance to warp off the bed)
+
+tensioner upers had changes to work with new static bodies
+
+Tensioner lowers captive nut minor geometry changes - better pre-engagement with tension screw - reduced hole size after captive nut to act as tension screw "nylock"
+
+LazyCam static bodies added for those wishing to use the LazyCam system
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 10/07/24
 
 CAD v24 release
