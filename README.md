@@ -21,8 +21,7 @@ A full pin mod for the AB motor mounts, XY gantry joints and front idler tension
 ![V0 2R1 Idler Tensioners Cut](https://github.com/Amekyras/tulip/assets/94327757/6c2ed4f8-4897-47bb-b8ae-8113dea347f6)
 
 
->note
-for LazyCam idlers you will require Some extra printed parts
+> **Note - for LazyCam idlers you will require Some extra printed parts to complete**
 
 these can be found here https://github.com/akinferno/Voron0/tree/main/LazyCams/Model%20C/STLs
 
