@@ -31,6 +31,7 @@ these can be found here https://github.com/akinferno/Voron0/tree/main/LazyCams/M
 - LazyCams_C-B CamArm_v1.stl
 - LazyCams_C-B CamLock_v1.stl
 
+----
 
 > **CHANGE LOG**
 
