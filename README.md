@@ -21,7 +21,28 @@ A full pin mod for the AB motor mounts, XY gantry joints and front idler tension
 ![V0 2R1 Idler Tensioners Cut](https://github.com/Amekyras/tulip/assets/94327757/6c2ed4f8-4897-47bb-b8ae-8113dea347f6)
 
 
+>note
+	>for LazyCam idlers you will require Some extra printed parts
+
+these can be found here https://github.com/akinferno/Voron0/tree/main/LazyCams/Model%20C/STLs
+	LazyCams_C-A CamArm_v1.stl
+	LazyCams_C-A CamLock_v1.stl
+
+	LazyCams_C-B CamArm_v1.stl
+	LazyCams_C-B CamLock_v1.stl
+
+
 > **CHANGE LOG**
+
+24/08/24
+
+CAD v26 release
+
+CAD names have been updated to be consistant with the STL names and the [a] for accent colour marking has also been added. Corrected a mistake where the Voron Logo was mirrored on Mid_Mount_A_x1.
+
+STL's Updated to latest Names denoting the [a] for accent colours. corrected Mid_Mount_A_x1 STL
+
+----
 
 08/08/24
 
@@ -35,7 +56,7 @@ Tensioner lowers captive nut minor geometry changes - better pre-engagement with
 
 LazyCam static bodies added for those wishing to use the LazyCam system (type C)
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----
 
 10/07/24
 
@@ -53,7 +74,7 @@ AB Motor mounts plates and mid parts have locating tabs to secure each other tog
 
 Tools added - Bearing insert tool & Drill jig for access to tensioner locking screw
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----
 
 **Links to original source material**
 
@@ -61,4 +82,8 @@ https://github.com/VoronDesign/Voron-0
 
 https://vorondesign.com
 
+https://github.com/akinferno/Voron0/tree/main/LazyCams
+
 **GNU Terry Pratchett**
+
+
