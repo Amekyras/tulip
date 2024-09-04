@@ -35,6 +35,23 @@ these can be found here https://github.com/akinferno/Voron0/tree/main/LazyCams/M
 
 > **CHANGE LOG**
 
+04/09/24
+
+CAD v27 release
+
+Amended Pin hole depth on parts
+
+- Top_Mount_A_MGN9C_x1
+- Top_Mount_B_MGN9C_x1
+
+Motor "Pully Tool" has now been added to help get them in the right place
+
+Picture of the tool has been added to the PICS folder
+
+STL's have been updated for the latest change for the parts affected
+
+----
+
 24/08/24
 
 CAD v26 release
