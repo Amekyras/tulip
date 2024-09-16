@@ -31,6 +31,10 @@ these can be found here https://github.com/akinferno/Voron0/tree/main/LazyCams/M
 - LazyCams_C-B CamArm_v1.stl
 - LazyCams_C-B CamLock_v1.stl
 
+> **Note - For PIN FITTING GUIDE you can find it here**
+
+https://github.com/Amekyras/tulip/blob/main/PIN%20GUIDE/PIN%20FITTING%20GUIDE.md
+
 ----
 
 > **CHANGE LOG**
