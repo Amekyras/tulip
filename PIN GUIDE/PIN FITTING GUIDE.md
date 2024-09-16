@@ -1,4 +1,4 @@
-# $${\color{purple}PIN FITTING GUIDE}$$
+# $${\color{purple}PIN-FITTING-GUIDE}$$
 
 This is to help get your PINS fitted in your newly printed TULIP mod.
 
