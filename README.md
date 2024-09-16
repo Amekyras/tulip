@@ -126,6 +126,8 @@ https://vorondesign.com
 
 https://github.com/akinferno/Voron0/tree/main/LazyCams
 
+https://github.com/ruiqimao/VoronUsers/tree/v0.2-mgn9c/printer_mods/ruiqimao/V0.2_MGN9C_X
+
 **GNU Terry Pratchett**
 
 
