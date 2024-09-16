@@ -44,6 +44,8 @@ https://github.com/Amekyras/tulip/blob/main/PIN%20GUIDE/PIN%20FITTING%20GUIDE.md
 
 16/09/24
 
+CAD v28 release
+
 Both Standard and LazyCAM static bodies have has the access hole size changed (for the front fixing into the extrusion) so that longer screws can be used and dropped in from the top.
 
 A NEW motor "Pully Tool" has been made to measure from the motor tops rather than from the top of the shaft
