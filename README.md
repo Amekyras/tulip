@@ -10,6 +10,7 @@ A full pin mod for the AB motor mounts, XY gantry joints and front idler tension
  - Tension is now applied through an M3 screw in the front idlers, and all bearing stacks run on pins rather than screws.
  - MGN7H (stock) and MGN9C X rails are supported, with no travel loss.
  - Pins are standard M3 off-the-shelf sizing, for those unable to cut their own
+ - MGN9H BETA
 
 
 ![V0 2R1 AB Pin 1](https://github.com/Amekyras/tulip/assets/94327757/2334f2fe-ea59-4272-a482-91458820e2e0)
@@ -31,6 +32,8 @@ these can be found here https://github.com/akinferno/Voron0/tree/main/LazyCams/M
 - LazyCams_C-B CamArm_v1.stl
 - LazyCams_C-B CamLock_v1.stl
 
+----
+
 > **Note - For PIN FITTING GUIDE you can find it here**
 
 https://github.com/Amekyras/tulip/blob/main/PIN%20GUIDE/PIN%20FITTING%20GUIDE.md
@@ -38,6 +41,23 @@ https://github.com/Amekyras/tulip/blob/main/PIN%20GUIDE/PIN%20FITTING%20GUIDE.md
 ----
 
 > **CHANGE LOG**
+
+16/09/24
+
+Both Standard and LazyCAM static bodies have has the access hole size changed (for the front fixing into the extrusion) so that longer screws can be used and dropped in from the top.
+
+A NEW motor "Pully Tool" has been made to measure from the motor tops rather than from the top of the shaft
+
+BOM has been updated to show "Washers / Shims" for the bearing stacks
+
+XY_Upper_Joint Fixings changed from M3x6mm to M3x8mm on CAD
+
+PIN GUIDE has been added to help users get the best from TULIP
+
+MGN9H BETA (yes H) has been added for those wanting to use this type of rail setup. All printed parts needed are in the STL's frolder MGN9H.
+> **Note - A 160mm Rail is required for full travel**
+
+----
 
 04/09/24
 
