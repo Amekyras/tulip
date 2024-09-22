@@ -46,6 +46,5 @@ Make sure to go **SLOW** here, it is easy to go too **FAST** and **RUIN** your p
 
 Now that we have **REEMED** the **PIN** holes you can now fit your **PINS**
 It should be a Good Snug Press Fit - This will mean that your PINS will stay PUT for a long time!
-IF they are a little loose (they will wobble in the pin hole) then you may have reemed the pin hole to big and you will need to print the part again and start over.
 
 
