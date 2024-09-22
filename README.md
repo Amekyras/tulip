@@ -36,7 +36,7 @@ these can be found here https://github.com/akinferno/Voron0/tree/main/LazyCams/M
 
 > **Note - For PIN FITTING GUIDE you can find it here**
 
-https://github.com/Amekyras/tulip/blob/main/PIN%20GUIDE/PIN%20FITTING%20GUIDE.md
+[https://github.com/Amekyras/tulip/blob/main/PIN%20GUIDE/PIN%20FITTING%20GUIDE.md](https://github.com/Amekyras/tulip/tree/main/PIN%20GUIDE)
 
 ----
 
