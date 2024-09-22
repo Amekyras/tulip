@@ -15,15 +15,15 @@ To PRINT the PERFECT hole size for the PINS is almost impossible as there are fa
 So this method has been devised in order for ALL users of TULIP to get the same results.
 
 The pictures below shows the differnece between the PIN diameter and the TYPICAL SCREW diameter (M3 threaded).
-This is the difference between getting a PRESS FIT / INTERFERANCE FIT and a LOOSE FIT so 0.12mm (diameter) or 0.06mm (radious).
-So if the PIN hole is slightly too big (3.12 as opposed to 3.0mm) it is the difference between having a RELIABLE mod or one that will FAIL to deliver.
+This is the difference between getting a nice fit for your bearings to be properly restrained so they work more effectively.
+The PIN hole diameter is also just as crucial and the difference between getting a nice PRESS FIT / INTERFERENCE FIT and a LOOSE FIT is about 0.1 – 0.15mm (diameter) or 0.05 – 0.075mm (radius).
 
 ![SCREW Dia](https://github.com/user-attachments/assets/d3d8b2fc-6009-43a6-a913-402b6ad2801f)
 
 ![PIN Dia](https://github.com/user-attachments/assets/367ed3eb-acff-43df-b646-521495a0998d)
 
 The PIN holes in the CAD are 3.1mm and with (ABS) meterial shrinkage as approx 0.6% so in theory we should end up with a 3.08mm hole.
-But in reality you are more likely to end up with what i have below (3.94mm) as material is dragged into the centre of the circle while material is being extruded. This TYPICALLY can be (Dialed In) by using XY compensation on interanl holes in your slicer.
+But in reality you are more likely to end up with what i have below (2.94mm) as material is dragged into the centre of the circle while material is being extruded. This TYPICALLY can be (Dialed In) by using XY compensation on interanl holes in your slicer.
 
 ![PIN HOLE Dia](https://github.com/user-attachments/assets/897c8ecd-d136-479a-be23-0a3d0ec0e6e7)
 
