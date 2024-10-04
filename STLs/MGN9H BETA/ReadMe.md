@@ -1,0 +1,1 @@
+To use the MGN9H setup you will need a 160mm rail for full X travel

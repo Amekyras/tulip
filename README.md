@@ -10,7 +10,9 @@ A full pin mod for the AB motor mounts, XY gantry joints and front idler tension
  - Tension is now applied through an M3 screw in the front idlers, and all bearing stacks run on pins rather than screws.
  - MGN7H (stock) and MGN9C X rails are supported, with no travel loss.
  - Pins are standard M3 off-the-shelf sizing, for those unable to cut their own
+ - LazyCam Support
  - MGN9H BETA
+ - Nema 17 AB Motor Mount Beta
 
 
 ![V0 2R1 AB Pin 1](https://github.com/Amekyras/tulip/assets/94327757/2334f2fe-ea59-4272-a482-91458820e2e0)
@@ -41,6 +43,25 @@ https://github.com/Amekyras/tulip/blob/main/PIN%20GUIDE/PIN%20FITTING%20GUIDE.md
 ----
 
 > **CHANGE LOG**
+
+CAD v29 release
+
+House keeping in CAD - Created componants for all bodies, Some name corrections, Reduced Materials
+
+18mm Pin version of the front Idler Tensioners have been added for those who are struggling to find 16mm Pins, These also have LazyCam support
+
+X Light Gantry (MamaBot.io) Beta is now included
+> **Note - This is NOT compatible with the Fysetc X Light Gantry**
+
+Nema 17 AB Motor Mount Beta added for testing
+
+ReadMe's added for some folders - please make sure you read them
+
+STL's added
+
+BOM amended + PDF format added
+
+----
 
 16/09/24
 
