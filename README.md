@@ -45,6 +45,7 @@ these can be found here https://github.com/akinferno/Voron0/tree/main/LazyCams/M
 ----
 
 > **CHANGE LOG**
+
 04/11/24
 
 CAD v29 release
