@@ -14,7 +14,7 @@ A full pin mod for the AB motor mounts, XY gantry joints and front idler tension
  - MGN9H BETA
  - Nema 17 AB Motor Mount Beta
  - Fysetc X light gantry compatibility (use standard XY joints)
- - Mamabot.io support
+ - Mamabot.io X light gantry support
 
 
 ![V0 2R1 AB Pin 1](https://github.com/Amekyras/tulip/assets/94327757/2334f2fe-ea59-4272-a482-91458820e2e0)
