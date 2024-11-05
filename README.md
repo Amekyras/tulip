@@ -37,6 +37,7 @@ these can be found here https://github.com/akinferno/Voron0/tree/main/LazyCams/M
 - LazyCams_C-B CamLock_v1.stl
 
 ----
+NEW Pin Hole Sizing for tulip should mean NO MORE REEMING! but if you still have trouble fitting your pins then reffer to this guide
 
 > **Note - For PIN FITTING GUIDE you can find it here**
 
