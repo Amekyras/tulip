@@ -67,7 +67,7 @@ House keeping in CAD - Created componants for all bodies, Some name corrections,
 these are also recomended to those wishing to use GT3 belts
 
 X Light Gantry (MamaBot.io) Beta is now included
-> **Note - This is NOT compatible with the Fysetc X Light Gantry**
+> **Note - This is NOT compatible with the Fysetc X Light Gantry, instead use standard XY Joints**
 
 Nema 17 AB Motor Mount Beta added for testing
 
