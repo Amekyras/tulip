@@ -47,6 +47,16 @@ NEW Pin Hole Sizing for tulip should mean NO MORE REEMING! but if you still have
 
 > **CHANGE LOG**
 
+10/11/24
+
+CAD v31 release
+
+Added umbilical Cover Plates (with + without Bowden Hole) and MMU versions
+
+Added Picobilical Strain Relief Beta (MMU)
+
+----
+
 04/11/24
 
 CAD v29 release
