@@ -7,14 +7,16 @@
 A full pin mod for the AB motor mounts, XY gantry joints and front idler tensioners for the Voron v0.2
 
  - AB motors mounted solidly to the frame, meaning no more shunting them back and forth with a bulky tensioning nut.
- - Tension is now applied through an M3 screw in the front idlers, and all bearing stacks run on pins rather than screws.
+ - Tension is now applied through an M3 screw in the front idlers, and ALL bearing stacks run on pins rather than screws.
  - MGN7H (stock) and MGN9C X rails are supported, WITH NO TRAVEL LOSS.
- - Pins are standard M3 off-the-shelf sizing, for those unable to cut their own
+ - Pins are standard 3mm off-the-shelf sizing, for those unable to cut their own
  - LazyCam Support
  - MGN9H BETA
  - Nema 17 AB Motor Mount Beta
  - Fysetc X light gantry compatibility (use standard XY joints)
  - Mamabot.io X light gantry support
+ - Nema 14 - 35mm Shaft Motor Mount Beta
+ - NEW Live Idler XY joints / Tension Idler Beta
 
 
 ![V0 2R1 AB Pin 1](https://github.com/Amekyras/tulip/assets/94327757/2334f2fe-ea59-4272-a482-91458820e2e0)
@@ -25,6 +27,9 @@ A full pin mod for the AB motor mounts, XY gantry joints and front idler tension
 
 ![V0 2R1 Idler Tensioners Cut](https://github.com/Amekyras/tulip/assets/94327757/6c2ed4f8-4897-47bb-b8ae-8113dea347f6)
 
+![V0 2R1 XY Live Idler](https://github.com/user-attachments/assets/60312785-bac5-4c9d-a031-55cc58e8cf54)
+
+![V0 2R1 XY Live Idler Cut](https://github.com/user-attachments/assets/0cbb68e4-b163-48bc-90a5-b8480c80277c)
 
 > **Note - for LazyCam idlers you will require Some extra printed parts to complete**
 
@@ -46,6 +51,12 @@ NEW Pin Hole Sizing for tulip should mean NO MORE REEMING! but if you still have
 ----
 
 > **CHANGE LOG**
+
+28/11/24
+
+CAD
+
+----
 
 10/11/24
 
