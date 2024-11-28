@@ -1,1 +1,0 @@
-These 18mm Pin Tension Idlers can be used in place of the regular ones if you find it hard to obtain 16mm pins
