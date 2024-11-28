@@ -54,7 +54,16 @@ NEW Pin Hole Sizing for tulip should mean NO MORE REEMING! but if you still have
 
 28/11/24
 
-CAD
+CAD v32 release
+
+small amendments to supporting drawing
+
+removal of 16mm pin tension idlers - in favour of better 18mm pin version (also to simplify and cause less confusion)
+
+NEW addition of Nema 14 - 35mm shaft CAD and STL's
+
+NEW addition of LIVE IDLER CAD for XY joints to have solid toothed idler and live pins
+STL's have been added
 
 ----
 
