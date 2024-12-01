@@ -52,6 +52,14 @@ NEW Pin Hole Sizing for tulip should mean NO MORE REEMING! but if you still have
 
 > **CHANGE LOG**
 
+01/12/24
+
+CAD V33 release
+
+updated the pin cutting tool to give 18mm pins (as this is now the standard)
+
+STL's have been updated
+
 28/11/24
 
 CAD v32 release
