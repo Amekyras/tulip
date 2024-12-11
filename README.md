@@ -11,7 +11,7 @@ A full pin mod for the AB motor mounts, XY gantry joints and front idler tension
  - MGN7H (stock) and MGN9C X rails are supported, WITH NO TRAVEL LOSS.
  - Pins are standard 3mm off-the-shelf sizing, for those unable to cut their own
  - LazyCam Support
- - MGN9H BETA
+ - MGN9H BETA, WITH NO TRAVEL LOSS
  - Nema 17 AB Motor Mount Beta
  - Fysetc X light gantry compatibility (use standard XY joints)
  - Mamabot.io X light gantry support
@@ -51,6 +51,20 @@ NEW Pin Hole Sizing for tulip should mean NO MORE REEMING! but if you still have
 ----
 
 > **CHANGE LOG**
+
+11/12/24
+
+CAD V34 release
+
+update for a missed pin hole re-size ( parts affected - XY left upper joint & XY left upper MMU joint )
+
+AB Mounts for MGN7H have been removed in favour of having MGN9C as the new standard - reason, MGN9C will work for MGN7H and gives and easy path to upgrade to MGN9C with no changes to be made to printed parts - also reduces part veriance for a more cohesive mod.
+
+STL's for parts affected by the pin hole error have been updated
+
+STL's for MGN7H AB Mounts have been removed
+
+----
 
 01/12/24
 
