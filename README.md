@@ -33,7 +33,7 @@ A full pin mod for the AB motor mounts, XY gantry joints and front idler tension
 
 > **Note - for LazyCam idlers you will require Some extra printed parts to complete**
 
-these can be found here https://github.com/akinferno/Voron0/tree/main/LazyCams/Model%20C/STLs
+these can be found here https://www.printables.com/model/533483-voron-02-lazycams-tool-free-locking-idlers-models
 
 - LazyCams_C-A CamArm_v1.stl
 - LazyCams_C-A CamLock_v1.stl
