@@ -23,7 +23,7 @@ A full pin mod for the AB motor mounts, XY gantry joints and front idler tension
 
 ![V0 2R1 XY Pin 1](https://github.com/Amekyras/tulip/assets/94327757/f6ef2c14-dcae-4d3b-bead-6299d7465112)
 
-![V0 2R1 Idler Tensioners](https://github.com/Amekyras/tulip/assets/94327757/4f11de3a-fce1-4261-a26b-d59bcf17d914)
+![Tension idler](https://github.com/user-attachments/assets/45ddbafa-39f9-4383-beed-544fde593e64)
 
 ![V0 2R1 Idler Tensioners Cut](https://github.com/Amekyras/tulip/assets/94327757/6c2ed4f8-4897-47bb-b8ae-8113dea347f6)
 
@@ -51,6 +51,34 @@ NEW Pin Hole Sizing for tulip should mean NO MORE REEMING! but if you still have
 ----
 
 > **CHANGE LOG**
+
+----
+
+04/02/25
+
+CAD V35 release
+
+QOL additions to
+- Tension Idlers
+- AB motor Mounts
+- Live Idler XY Spacers
+
+Tension Idlers
+- added tension marks to the side for visual aid
+- Reduced overhngs to Lower_Tensioner
+- Increased Radious to front overhang to Lower_Tensioner to reduce curling
+- reduced material used on Upper_Tensioner
+
+AB Motor Mounts
+- Added additional location points to Mid_Mounts.
+- This is to give a more possitive engagement / alignment between Mid and Top parts helping the double shear alignment.
+- Chamfers removed from Top_Motor_Mounts - QOL for printing
+- Motor Screw Holes resized from 3.4mm to 3.2mm for more secure location of the motor location on Mid_Mount
+
+Live Idler XY Joints
+- Changed profile of Spacer top (bearing side)
+- Old style was too easy to get upside down - this newer design will combat this while keeping the same overall look
+----
 
 11/12/24
 
