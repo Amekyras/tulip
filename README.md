@@ -78,6 +78,8 @@ AB Motor Mounts
 Live Idler XY Joints
 - Changed profile of Spacer top (bearing side)
 - Old style was too easy to get upside down - this newer design will combat this while keeping the same overall look
+- Lower_XY_Joints have had chamfer amendments for better first layer printability
+
 ----
 
 11/12/24
