@@ -68,12 +68,14 @@ Tension Idlers
 - Reduced overhngs to Lower_Tensioner
 - Increased Radious to front overhang to Lower_Tensioner to reduce curling
 - reduced material used on Upper_Tensioner
+- added in corner releif for upper extrusion
 
 AB Motor Mounts
 - Added additional location points to Mid_Mounts.
 - This is to give a more possitive engagement / alignment between Mid and Top parts helping the double shear alignment.
 - Chamfers removed from Top_Motor_Mounts - QOL for printing
 - Motor Screw Holes resized from 3.4mm to 3.2mm for more secure location of the motor location on Mid_Mount
+- added in corner relief for upper extrusion
 
 Live Idler XY Joints
 - Changed profile of Spacer top (bearing side)
