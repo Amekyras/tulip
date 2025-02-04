@@ -11,7 +11,7 @@ A full pin mod for the AB motor mounts, XY gantry joints and front idler tension
  - MGN7H (stock) and MGN9C X rails are supported, WITH NO TRAVEL LOSS.
  - Pins are standard 3mm off-the-shelf sizing, for those unable to cut their own
  - LazyCam Support
- - MGN9H BETA, WITH NO TRAVEL LOSS
+ - MGN9H X RAIL BETA, WITH NO TRAVEL LOSS
  - Nema 17 AB Motor Mount Beta
  - Fysetc X light gantry compatibility (use standard XY joints)
  - Mamabot.io X light gantry support
@@ -33,7 +33,7 @@ A full pin mod for the AB motor mounts, XY gantry joints and front idler tension
 
 > **Note - for LazyCam idlers you will require Some extra printed parts to complete**
 
-these can be found here https://github.com/akinferno/Voron0/tree/main/LazyCams/Model%20C/STLs
+these can be found here https://www.printables.com/model/533483-voron-02-lazycams-tool-free-locking-idlers-models
 
 - LazyCams_C-A CamArm_v1.stl
 - LazyCams_C-A CamLock_v1.stl
