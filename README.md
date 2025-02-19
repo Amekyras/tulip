@@ -19,6 +19,8 @@ A full pin mod for the AB motor mounts, XY gantry joints and front idler tension
  - NEW Live Idler XY joints / Tension Idler Beta
 
 
+We now have a gorgeous manual in development by danya on the Voron discord, check it out if you need a helping hand!
+
 ![V0 2R1 AB Pin 1](https://github.com/Amekyras/tulip/assets/94327757/2334f2fe-ea59-4272-a482-91458820e2e0)
 
 ![V0 2R1 XY Pin 1](https://github.com/Amekyras/tulip/assets/94327757/f6ef2c14-dcae-4d3b-bead-6299d7465112)
