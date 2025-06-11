@@ -1,4 +1,4 @@
-# $${\color{purple}PIN-FITTING-GUIDE}$$
+# PIN-FITTING-GUIDE
 
 This is to help get your PINS fitted in your newly printed TULIP mod.
 
@@ -27,7 +27,7 @@ But in reality you are more likely to end up with what i have below (2.94mm) as 
 
 ![PIN HOLE Dia](https://github.com/user-attachments/assets/897c8ecd-d136-479a-be23-0a3d0ec0e6e7)
 
-But for many we dont tend to tune in these settings, so we need to **REEM** out the PIN holes in order to get that nice **SNUG** fit.
+But for many we dont tend to tune in these settings, so we need to **REAM** out the PIN holes in order to get that nice **SNUG** fit.
 
 Get your 3mm DRILL BIT and measure with your CALLIPERS to make sure it is no more that 3mm. (lets face it, you just spend a few hours printing the parts, you dont want to ruin them now)
 
@@ -35,7 +35,7 @@ Get your 3mm DRILL BIT and measure with your CALLIPERS to make sure it is no mor
 
 ![REEMING](https://github.com/user-attachments/assets/281afcaa-dcdb-439f-bc88-e3e74d66b19e)
 
-> **Note - After you have confirmed they are good CAREFULLY REEM out the PIN HOLES!**
+> **Note - After you have confirmed they are good CAREFULLY REAM out the PIN HOLES!**
 
 Make sure to go **SLOW** here, it is easy to go too **FAST** and **RUIN** your prints! (ASK ME HOW I KNOW)
 
@@ -44,7 +44,7 @@ Make sure to go **SLOW** here, it is easy to go too **FAST** and **RUIN** your p
 ![Fitted PIN](https://github.com/user-attachments/assets/f3a2624f-865f-437a-bf1d-806221c76a49)
 
 
-Now that we have **REEMED** the **PIN** holes you can now fit your **PINS**
+Now that we have **REAMED** the **PIN** holes you can now fit your **PINS**
 It should be a Good Snug Press Fit - This will mean that your PINS will stay PUT for a long time!
 
 
