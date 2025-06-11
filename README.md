@@ -1,4 +1,4 @@
-# $${\color{purple}TULIP}$$
+# TULIP
 
 >"Everything will be alright as long as you have your -ing potato." - Mr. Tulip, to Mr. Pin, _The Truth_, by Terry Pratchett
 
