@@ -1,4 +1,4 @@
-# TULIP 2.0
+# Welcome to TULIP 2.0
 
 >"Everything will be alright as long as you have your -ing potato." - Mr. Tulip, to Mr. Pin, _The Truth_, by Terry Pratchett
 
@@ -20,17 +20,21 @@ A full pin mod for the AB motor mounts, XY gantry joints and front idler tension
 
 We now have a gorgeous manual in development by danya on the Voron discord, check it out if you need a helping hand!
 
-![V0 2R1 AB Pin 1](https://github.com/Amekyras/tulip/assets/94327757/2334f2fe-ea59-4272-a482-91458820e2e0)
+<img width="2560" height="1233" alt="V0 2R1 Tulip Mod 2 0" src="https://github.com/user-attachments/assets/bbab425a-e143-43da-9606-4c9e4cf16088" />
 
-![V0 2R1 XY Pin 1](https://github.com/Amekyras/tulip/assets/94327757/f6ef2c14-dcae-4d3b-bead-6299d7465112)
+<img width="2560" height="1233" alt="V0 2R1 Tulip Mod AB mounts" src="https://github.com/user-attachments/assets/694f5b5e-4fc6-4d11-9b11-c4687ed4c3a5" />
 
-![Tension idler](https://github.com/user-attachments/assets/45ddbafa-39f9-4383-beed-544fde593e64)
+<img width="2560" height="1233" alt="V0 2R1 Tulip Mod XY Joints" src="https://github.com/user-attachments/assets/ba5ac1bb-6a4c-46ed-9dff-875838d53e57" />
 
-![V0 2R1 Idler Tensioners Cut](https://github.com/Amekyras/tulip/assets/94327757/6c2ed4f8-4897-47bb-b8ae-8113dea347f6)
+<img width="2560" height="1233" alt="V0 2R1 Tulip Mod Live Idler" src="https://github.com/user-attachments/assets/bc292e69-279f-4b5f-8eae-878d514f82da" />
 
-![V0 2R1 XY Live Idler](https://github.com/user-attachments/assets/60312785-bac5-4c9d-a031-55cc58e8cf54)
+![V0 2R1 Idler Tensioners Cut](https://github.com/user-attachments/assets/495141d5-1f36-4f96-8263-19239bde98af)
 
-![V0 2R1 XY Live Idler Cut](https://github.com/user-attachments/assets/0cbb68e4-b163-48bc-90a5-b8480c80277c)
+<img width="2560" height="1233" alt="V0 2R1 Tulip Mod Live XY Joints" src="https://github.com/user-attachments/assets/978dd8bb-09df-4dce-9a4b-b6a3c0b4e281" />
+
+![V0 2R1 XY Live Idler Cut](https://github.com/user-attachments/assets/34739536-31f3-4f1c-aaeb-e7359cc94028)
+
+<img width="1960" height="1100" alt="Live Idler Stack" src="https://github.com/user-attachments/assets/d18074a9-c851-4898-90b5-930feaa2f203" />
 
 > **Note - for LazyCam idlers you will require Some extra printed parts to complete**
 
