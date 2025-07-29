@@ -36,6 +36,7 @@ We now have a gorgeous manual in development by danya on the Voron discord, chec
 
 <img width="1960" height="1100" alt="Live Idler Stack" src="https://github.com/user-attachments/assets/d18074a9-c851-4898-90b5-930feaa2f203" />
 
+
 > **Note - for LazyCam idlers you will require Some extra printed parts to complete**
 
 these can be found here https://www.printables.com/model/533483-voron-02-lazycams-tool-free-locking-idlers-models
