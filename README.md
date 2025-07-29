@@ -1,4 +1,4 @@
-# TULIP
+# TULIP 2.0
 
 >"Everything will be alright as long as you have your -ing potato." - Mr. Tulip, to Mr. Pin, _The Truth_, by Terry Pratchett
 
@@ -8,15 +8,14 @@ A full pin mod for the AB motor mounts, XY gantry joints and front idler tension
 
  - AB motors mounted solidly to the frame, meaning no more shunting them back and forth with a bulky tensioning nut.
  - Tension is now applied through an M3 screw in the front idlers, and ALL bearing stacks run on pins rather than screws.
- - MGN7H (stock) and MGN9C X rails are supported, WITH NO TRAVEL LOSS.
+ - Both MGN7H (stock) and MGN9C X rails are supported, WITH NO TRAVEL LOSS.
  - Pins are standard 3mm off-the-shelf sizing, for those unable to cut their own
  - LazyCam Support
- - MGN9H X RAIL BETA, WITH NO TRAVEL LOSS
  - Nema 17 AB Motor Mount Beta
  - Fysetc X light gantry compatibility (use standard XY joints)
  - Mamabot.io X light gantry support
  - Nema 14 - 35mm Shaft Motor Mount Beta
- - NEW Live Idler XY joints / Tension Idler Beta
+ - Live Idler XY joints + Tension Idlers
 
 
 We now have a gorgeous manual in development by danya on the Voron discord, check it out if you need a helping hand!
@@ -53,6 +52,43 @@ NEW Pin Hole Sizing for tulip should mean NO MORE REAMING! but if you still have
 ----
 
 > **CHANGE LOG**
+
+
+----
+
+31/07/25
+
+CAD V36 Release
+
+- Welcome to Tulip 2.0 !!!
+
+AB mounts have been heavily Revised
+- NEW universal design means it will work with any rail combo
+- NEW (more) open frame design also helps with belting and visuals of motion system for easier diagnostics
+- NEW branding Logo's
+
+XY Joints
+- NEW M3x25 + Threaded Insert fixing method, this now gives a much improved and stronger joint between the lower and upper parts
+- NEW joining method also alows bearings to be serviced without removal of the whole gantry - simply unscrew and remove the tops for access
+- some geometry has been revised on all versions
+- Live Idler XY joint sports some NEW Features to add strength and stiffness
+- Live Idlers moved from Beta to Mainstream
+- MGN9H rail is no longer being supported
+
+Idler Tensioners
+- NEW crown tops added to all versions
+- tension marks added to all version
+- Logo has been moved to the front on all versions
+
+Spacer
+- Live idler spacer has now been adopted throught Tulip
+
+PicoBilical
+- added Picobilical STL's
+- removed bowden tube holder from "Cable_Tie_Point" due to potential belt rubbing issue
+
+S35 AB Mounts
+- these will be updated in the comming months
 
 ----
 
