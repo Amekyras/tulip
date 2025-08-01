@@ -34,7 +34,8 @@ We now have a gorgeous manual in development by danya on the Voron discord, chec
 
 ![V0 2R1 XY Live Idler Cut](https://github.com/user-attachments/assets/34739536-31f3-4f1c-aaeb-e7359cc94028)
 
-<img width="1960" height="1100" alt="Live Idler Stack" src="https://github.com/user-attachments/assets/d18074a9-c851-4898-90b5-930feaa2f203" />
+<img width="1837" height="1001" alt="Live Idler Stack" src="https://github.com/user-attachments/assets/9388c3a5-2dfa-470b-9d52-285715214822" />
+
 
 ----
 > **Note - for LazyCam idlers you will require Some extra printed parts to complete**
