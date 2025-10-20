@@ -8,8 +8,13 @@ You need to print:
   - S22 for standard 22mm shaft motors
   - S35 for 35mm shaft motors like the LDO 2A NEMA14s
   - AB Motor Mounts Now work for both MGN7H & MGN9C rails
+
 - One set of XY joints
+  - Stock for Stock V0 bearing setup
+  - Optional for live idler
 - One set of front idlers
+  - Stock for stock V0 bearing setup
+  - Optional for live idler
   - Additional LazyCam parts may need to be downloaded from the author's repo 
 - Six hexagonal spacers (but print twelve because you *will* lose them)
 - If needed, pin cutting jigs, pulley alignment jigs, and frame drilling jigs can be found in Tools.
