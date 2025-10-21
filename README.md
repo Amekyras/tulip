@@ -25,14 +25,14 @@
 -   Idler Tensioner
 
     ---
-  ![]<img width="1233" height="1233" alt="V0 2R1 Tulip Mod Live Idler" src="https://github.com/user-attachments/assets/2ed64bca-6e91-4930-b477-dc31b26a3cc7" />
+  <img width="1233" height="1233" alt="V0 2R1 Tulip Mod Live Idler" src="https://github.com/user-attachments/assets/2ed64bca-6e91-4930-b477-dc31b26a3cc7" />
 
 
 
 -   Idler Tensioner Cut View
 
     ---
-   ![]<img width="1080" height="962" alt="V0 2R1 Idler Tensioners Cut" src="https://github.com/user-attachments/assets/865c3d3e-37f2-443c-859e-14a9903bb36d" />
+   <img width="1080" height="962" alt="V0 2R1 Idler Tensioners Cut" src="https://github.com/user-attachments/assets/865c3d3e-37f2-443c-859e-14a9903bb36d" />
 
 
 
@@ -40,7 +40,7 @@
 -   Live Idler XY Joints
 
     ---
-    ![]<img width="1233" height="1233" alt="V0 2R1 Tulip Mod Live XY Joints" src="https://github.com/user-attachments/assets/7530720e-e20d-4792-be77-6bb099b9b0ec" />
+    <img width="1233" height="1233" alt="V0 2R1 Tulip Mod Live XY Joints" src="https://github.com/user-attachments/assets/7530720e-e20d-4792-be77-6bb099b9b0ec" />
 
 
 -   Daily step count last month of challenge
