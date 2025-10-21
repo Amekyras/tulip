@@ -19,9 +19,32 @@
 
 <img width="1814" height="1233" alt="V0 2R1 Tulip Mod 2 0" src="https://github.com/user-attachments/assets/baccfaa8-d7cc-4c55-b679-6c388fd366b3" />
 <img width="1816" height="1154" alt="V0 2R1 Tulip Mod XY Joints" src="https://github.com/user-attachments/assets/6c900ea7-badd-47fe-bfa6-3dcfa2e2f485" />
-| Tension Idler | Cut View |
-:-------------:|:----------:
-| ![](<img width="1233" height="1233" alt="V0 2R1 Tulip Mod Live Idler" src="https://github.com/user-attachments/assets/b0bb0613-452a-4775-8631-f6a3f24d96e9" />){ width=50 }  |  ![](https://github.com/user-attachments/assets/5903ea14-c450-44f0-8db6-399ecaa9d2c0){ width=50 } |
+
+<div class="grid cards" markdown>
+
+-   Daily distance entire challenge
+
+    ---
+   <img width="1233" height="1233" alt="V0 2R1 Tulip Mod Live Idler" src="https://github.com/user-attachments/assets/3b9fcb3d-e40b-49e3-81d1-271fa26d5823" />
+
+
+-   Daily distance post-challenge
+
+    ---
+    ![](summer-walking-challenge/post_challange_dist_km.png)
+
+-   Daily distance last month of challenge
+
+    ---
+    ![](summer-walking-challenge/last_month_dist_km.png)
+
+-   Daily step count last month of challenge
+
+    ---
+    ![](summer-walking-challenge/last_month_step_count.png)
+
+</div>
+
 
 
 
