@@ -21,9 +21,9 @@
 
 <img width="1816" height="1154" alt="V0 2R1 Tulip Mod XY Joints" src="https://github.com/user-attachments/assets/753b7f14-46d7-499d-b2d4-d3ce51e3b4e8" />
 
-<img width="491" height="420" alt="V0 2R1 Tulip Mod idler tensioner" src="https://github.com/user-attachments/assets/583092e8-7332-4228-9b2d-78c7c0d77c6d" />
+<img width="391" height="292" alt="V0 2R1 Tulip Mod idler tensioner" src="https://github.com/user-attachments/assets/6ffb175e-1808-4cd1-adaf-e728c507a5fc" />
 
-<img width="486" height="420" alt="V0 2R1 Tulip Mod idler tensioner cut" src="https://github.com/user-attachments/assets/807e56bf-035b-4ccf-b80b-b5e14130c555" />
+<img width="388" height="293" alt="V0 2R1 Tulip Mod idler tensioner cut" src="https://github.com/user-attachments/assets/a590937a-d6d4-4c29-ae7e-19c641bc7654" />
 
 
 
