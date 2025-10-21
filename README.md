@@ -4,7 +4,7 @@
 
 >"See a pin and pick it up, and all day long you’ll have a pin!" - Stanley Howler, _Going Postal_, by Terry Pratchett
 
-A full pin mod for the AB motor mounts, XY gantry joints and front idler tensioners for the Voron v0.2
+# A full pin mod for the AB motor mounts, XY gantry joints and front idler tensioners for the Voron v0.2
 
  - AB motors mounted solidly to the frame, meaning no more shunting them back and forth with a bulky tensioning nut.
  - Tension is now applied through an M3 screw in the front idlers, and ALL bearing stacks run on pins rather than screws.
@@ -17,8 +17,6 @@ A full pin mod for the AB motor mounts, XY gantry joints and front idler tension
  - Nema 14 - 35mm Shaft Motor Mount Beta
  - Live Idler XY joints + Tension Idlers
 
-
-We now have a gorgeous manual in development by danya on the Voron discord, check it out if you need a helping hand!
 
 <img width="2560" height="1233" alt="V0 2R1 Tulip Mod 2 0" src="https://github.com/user-attachments/assets/bbab425a-e143-43da-9606-4c9e4cf16088" />
 
@@ -38,9 +36,10 @@ We now have a gorgeous manual in development by danya on the Voron discord, chec
 
 
 ----
+
 > **Note - for LazyCam idlers you will require Some extra printed parts to complete**
 
-these can be found here https://www.printables.com/model/533483-voron-02-lazycams-tool-free-locking-idlers-models
+these can be found [here](https://www.printables.com/model/533483-voron-02-lazycams-tool-free-locking-idlers-models)
 
 - LazyCams_C-A CamArm_v1.stl
 - LazyCams_C-A CamLock_v1.stl
@@ -49,11 +48,10 @@ these can be found here https://www.printables.com/model/533483-voron-02-lazycam
 - LazyCams_C-B CamLock_v1.stl
 
 ----
+
 NEW Pin Hole Sizing for tulip should mean NO MORE REAMING! but if you still have trouble fitting your pins then reffer to this guide
 
-> **Note - For PIN FITTING GUIDE you can find it here**
-
-[https://github.com/Amekyras/tulip/blob/main/PIN%20GUIDE/PIN%20FITTING%20GUIDE.md](https://github.com/Amekyras/tulip/tree/main/PIN%20GUIDE)
+> **Note - For PIN FITTING GUIDE you can find it [here](https://github.com/Amekyras/tulip/tree/main/PIN%20GUIDE)**
 
 ----
 
