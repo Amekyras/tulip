@@ -60,27 +60,27 @@ NEW Pin Hole Sizing for tulip should mean NO MORE REAMING! but if you still have
 
 ----
 
-## 01/08/25
+### 01/08/25
 
-### CAD V37 Release
+CAD V37 Release
 
-### XY Joints
+XY Joints
  - Live idlers amended to use standard spacers (9mm) the addition on 1 x extra 0.5mm shim to the Live idler stack (thanx to snowflake on discord for spotting this error)
 
 ----
 
-## 31/07/25
+### 31/07/25
 
-### CAD V36 Release
+CAD V36 Release
 
 - Welcome to Tulip 2.0 !!!
 
-### AB mounts have been heavily Revised
+AB mounts have been heavily Revised
 - NEW universal design means it will work with any rail combo
 - NEW (more) open frame design also helps with belting and visuals of motion system for easier diagnostics
 - NEW branding Logo's
 
-### XY Joints
+XY Joints
 - NEW M3x25 + Threaded Insert fixing method, this now gives a much improved and stronger joint between the lower and upper parts
 - NEW joining method also alows bearings to be serviced without removal of the whole gantry - simply unscrew and remove the tops for access
 - some geometry has been revised on all versions
@@ -88,24 +88,24 @@ NEW Pin Hole Sizing for tulip should mean NO MORE REAMING! but if you still have
 - Live Idlers moved from Beta to Mainstream
 - MGN9H rail is no longer being supported
 
-### Idler Tensioners
+Idler Tensioners
 - NEW crown tops added to all versions
 - tension marks added to all version
 - Logo has been moved to the front on all versions
 
-### Spacer
+Spacer
 - Live idler spacer has now been adopted throught Tulip
 
-### PicoBilical
+PicoBilical
 - added Picobilical STL's
 - removed bowden tube holder from "Cable_Tie_Point" due to potential belt rubbing issue
 
-### S35 AB Mounts
+S35 AB Mounts
 - these will be updated in the comming months
 
 ----
 
-04/02/25
+### 04/02/25
 
 CAD V35 release
 
@@ -135,7 +135,7 @@ Live Idler XY Joints
 
 ----
 
-11/12/24
+### 11/12/24
 
 CAD V34 release
 
@@ -149,7 +149,7 @@ STL's for MGN7H AB Mounts have been removed
 
 ----
 
-01/12/24
+### 01/12/24
 
 CAD V33 release
 
@@ -172,7 +172,7 @@ STL's have been added
 
 ----
 
-10/11/24
+### 10/11/24
 
 CAD v31 release
 
@@ -182,7 +182,7 @@ Added Picobilical Strain Relief Beta (MMU)
 
 ----
 
-04/11/24
+### 04/11/24
 
 CAD v29 release
 
@@ -208,7 +208,7 @@ ALL Pin Holes have a new size (this should work for a better fit withoit the ree
 
 ----
 
-16/09/24
+### 16/09/24
 
 CAD v28 release
 
@@ -227,7 +227,7 @@ MGN9H BETA (yes H) has been added for those wanting to use this type of rail set
 
 ----
 
-04/09/24
+### 04/09/24
 
 CAD v27 release
 
@@ -244,7 +244,7 @@ STL's have been updated for the latest change for the parts affected
 
 ----
 
-24/08/24
+### 24/08/24
 
 CAD v26 release
 
@@ -254,7 +254,7 @@ STL's Updated to latest Names denoting the [a] for accent colours. corrected Mid
 
 ----
 
-08/08/24
+### 08/08/24
 
 CAD v25 release
 
@@ -268,7 +268,7 @@ LazyCam static bodies added for those wishing to use the LazyCam system (type C)
 
 ----
 
-10/07/24
+### 10/07/24
 
 CAD v24 release
 

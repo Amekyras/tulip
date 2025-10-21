@@ -1,25 +1,42 @@
 # PRINTING GUIDE
 
-All parts print with standard VORON settings. 
+All parts print with standard VORON Settings!
 
-## PART SELECTION
-You need to print:
-- One set of AB mounts
-  - S22 for standard 22mm shaft motors
-  - S35 for 35mm shaft motors like the LDO 2A NEMA14s
-  - AB Motor Mounts Now work for both MGN7H & MGN9C rails
+----
 
-- One set of XY joints
-  - Stock for Stock V0 bearing setup
-  - Optional for live idler
-- One set of front idlers
-  - Stock for stock V0 bearing setup
-  - Optional for live idler
-  - Additional LazyCam parts may need to be downloaded from the author's repo 
-- Six hexagonal spacers (but print twelve because you *will* lose them)
-- If needed, pin cutting jigs, pulley alignment jigs, and frame drilling jigs can be found in Tools.
+## CHOOSE YOUR JEOURNEY
 
+----
 
-## EXPERIMENTAL PARTS
-- Various experimental parts can be found in the Experimental folder, but these parts may not be up-to-date with the latest Tulip revisions - use with care!
-- If you are using experimental parts, following along with the CAD is *highly* recommended, even more so than with standard parts.
+### OEM TULIP - The Path of Least Resistance
+
+- One set of
+  - AB Mounts
+  - XY Joints
+  - Idler Tensioners
+  - Umbilical Covers
+  - Tools & Jigs
+
+----  
+
+### LIVE TULIP - The Intrepid Adventurer
+
+- One set of
+  - AB Mounts
+  - Live XY Joints
+  - Live Idler Tensioners
+  - Umbilical covers
+  - Tools & Jigs
+
+----
+
+### EXPERIMENTAL TULIP - The Undaunted Explorer
+
+- A Choice of optional parts are availible to you to experiment with
+- WARNING !!! This section is for those who have good knowllege of their printer, understand the CAD and work / assembly of these parts
+
+  - S35 AB Mounts - For 35mm Shaft Nema14 Motors
+  - Nema17 AB Mounts
+  - Nema14 AWD AB Mounts
+
+----
