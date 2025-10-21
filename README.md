@@ -4,7 +4,7 @@
 
 >"See a pin and pick it up, and all day long you’ll have a pin!" - Stanley Howler, _Going Postal_, by Terry Pratchett
 
-# A full pin mod for the AB motor mounts, XY gantry joints and front idler tensioners for the Voron v0.2
+**A full pin mod for the AB motor mounts, XY gantry joints and front idler tensioners for the Voron v0.2**
 
  - AB motors mounted solidly to the frame, meaning no more shunting them back and forth with a bulky tensioning nut.
  - Tension is now applied through an M3 screw in the front idlers, and ALL bearing stacks run on pins rather than screws.
