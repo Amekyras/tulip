@@ -17,22 +17,14 @@
  - Nema 14 - 35mm Shaft Motor Mount Beta
  - Live Idler XY joints + Tension Idlers
 
-
-<img width="2560" height="1233" alt="V0 2R1 Tulip Mod 2 0" src="https://github.com/user-attachments/assets/bbab425a-e143-43da-9606-4c9e4cf16088" />
-
-<img width="2560" height="1233" alt="V0 2R1 Tulip Mod AB mounts" src="https://github.com/user-attachments/assets/694f5b5e-4fc6-4d11-9b11-c4687ed4c3a5" />
-
-<img width="2560" height="1233" alt="V0 2R1 Tulip Mod XY Joints" src="https://github.com/user-attachments/assets/ba5ac1bb-6a4c-46ed-9dff-875838d53e57" />
-
-<img width="2560" height="1233" alt="V0 2R1 Tulip Mod Live Idler" src="https://github.com/user-attachments/assets/bc292e69-279f-4b5f-8eae-878d514f82da" />
-
-![V0 2R1 Idler Tensioners Cut](https://github.com/user-attachments/assets/495141d5-1f36-4f96-8263-19239bde98af)
-
-<img width="2560" height="1233" alt="V0 2R1 Tulip Mod Live XY Joints" src="https://github.com/user-attachments/assets/978dd8bb-09df-4dce-9a4b-b6a3c0b4e281" />
-
-![V0 2R1 XY Live Idler Cut](https://github.com/user-attachments/assets/34739536-31f3-4f1c-aaeb-e7359cc94028)
-
-<img width="1837" height="1001" alt="Live Idler Stack" src="https://github.com/user-attachments/assets/9388c3a5-2dfa-470b-9d52-285715214822" />
+<img width="1814" height="1233" alt="V0 2R1 Tulip Mod 2 0" src="https://github.com/user-attachments/assets/baccfaa8-d7cc-4c55-b679-6c388fd366b3" />
+<img width="1816" height="1154" alt="V0 2R1 Tulip Mod XY Joints" src="https://github.com/user-attachments/assets/6c900ea7-badd-47fe-bfa6-3dcfa2e2f485" />
+<img width="1342" height="1126" alt="V0 2R1 Tulip Mod AB mounts" src="https://github.com/user-attachments/assets/08bc1ac1-a82c-4a2e-91a4-dc17de56cf14" />
+<img width="1233" height="1233" alt="V0 2R1 Tulip Mod Live Idler" src="https://github.com/user-attachments/assets/2ed64bca-6e91-4930-b477-dc31b26a3cc7" />
+<img width="1080" height="962" alt="V0 2R1 Idler Tensioners Cut" src="https://github.com/user-attachments/assets/865c3d3e-37f2-443c-859e-14a9903bb36d" />
+<img width="1233" height="1233" alt="V0 2R1 Tulip Mod Live XY Joints" src="https://github.com/user-attachments/assets/7530720e-e20d-4792-be77-6bb099b9b0ec" />
+<img width="1233" height="1233" alt="V0 2R1 Tulip Mod Live XY Joints" src="https://github.com/user-attachments/assets/b976490f-0545-41e3-bb1f-bb0894588106" />
+<img width="1837" height="1001" alt="Live Idler Stack" src="https://github.com/user-attachments/assets/153de8d5-5009-4856-a9f8-cbb86cce3b89" />
 
 
 ----
