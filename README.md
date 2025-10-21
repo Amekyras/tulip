@@ -24,7 +24,6 @@
 <img width="1080" height="962" alt="V0 2R1 Idler Tensioners Cut" src="https://github.com/user-attachments/assets/865c3d3e-37f2-443c-859e-14a9903bb36d" />
 <img width="1233" height="1233" alt="V0 2R1 Tulip Mod Live XY Joints" src="https://github.com/user-attachments/assets/7530720e-e20d-4792-be77-6bb099b9b0ec" />
 <img width="1233" height="1233" alt="V0 2R1 Tulip Mod Live XY Joints" src="https://github.com/user-attachments/assets/b976490f-0545-41e3-bb1f-bb0894588106" />
-![V0 2R1 XY Live Idler Cut](https://github.com/user-attachments/assets/602eff6a-0895-43f5-932b-3d5730956f8d)
 <img width="1837" height="1001" alt="Live Idler Stack" src="https://github.com/user-attachments/assets/153de8d5-5009-4856-a9f8-cbb86cce3b89" />
 
 
