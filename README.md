@@ -34,9 +34,9 @@
 
 ----
 
-> **Note - for LazyCam idlers you will require Some extra printed parts to complete**
+> **Note - for LazyCam idlers you will require Some extra printed parts to complete found [here](https://www.printables.com/model/533483-voron-02-lazycams-tool-free-locking-idlers-models)**
 
-these can be found [here](https://www.printables.com/model/533483-voron-02-lazycams-tool-free-locking-idlers-models)
+Parts required are; 
 
 - LazyCams_C-A CamArm_v1.stl
 - LazyCams_C-A CamLock_v1.stl
