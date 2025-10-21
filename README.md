@@ -22,21 +22,24 @@
 
 <div class="grid cards" markdown>
 
--   Daily distance entire challenge
+-   Idler Tensioner
 
     ---
-   <img width="1233" height="1233" alt="V0 2R1 Tulip Mod Live Idler" src="https://github.com/user-attachments/assets/3b9fcb3d-e40b-49e3-81d1-271fa26d5823" />
+  ![](<img width="1233" height="1233" alt="V0 2R1 Tulip Mod Live Idler" src="https://github.com/user-attachments/assets/2ed64bca-6e91-4930-b477-dc31b26a3cc7" />)
 
 
--   Daily distance post-challenge
 
-    ---
-    ![](summer-walking-challenge/post_challange_dist_km.png)
-
--   Daily distance last month of challenge
+-   Idler Tensioner Cut View
 
     ---
-    ![](summer-walking-challenge/last_month_dist_km.png)
+    ![](https://github.com/user-attachments/assets/bc576f18-4f7c-42a4-bf9c-a9893778b1df)
+
+
+-   Live Idler XY Joints
+
+    ---
+    ![](<img width="1233" height="1233" alt="V0 2R1 Tulip Mod Live XY Joints" src="https://github.com/user-attachments/assets/7530720e-e20d-4792-be77-6bb099b9b0ec" />)
+
 
 -   Daily step count last month of challenge
 
