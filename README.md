@@ -32,7 +32,9 @@
 -   Idler Tensioner Cut View
 
     ---
-    ![](https://github.com/user-attachments/assets/bc576f18-4f7c-42a4-bf9c-a9893778b1df)
+   ![]<img width="1080" height="962" alt="V0 2R1 Idler Tensioners Cut" src="https://github.com/user-attachments/assets/865c3d3e-37f2-443c-859e-14a9903bb36d" />
+
+
 
 
 -   Live Idler XY Joints
