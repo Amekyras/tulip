@@ -23,7 +23,7 @@
 
 <img width="491" height="392" alt="V0 2R1 Tulip Mod idler tensioner" src="https://github.com/user-attachments/assets/583092e8-7332-4228-9b2d-78c7c0d77c6d" />
 
-<img width="480" height="392" alt="V0 2R1 Tulip Mod idler tensioner cut" src="https://github.com/user-attachments/assets/807e56bf-035b-4ccf-b80b-b5e14130c555" />
+<img width="484" height="392" alt="V0 2R1 Tulip Mod idler tensioner cut" src="https://github.com/user-attachments/assets/807e56bf-035b-4ccf-b80b-b5e14130c555" />
 
 
 
