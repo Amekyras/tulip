@@ -37,7 +37,7 @@ All parts print with standard VORON Settings!
 
   - S35 AB Mounts - For 35mm Shaft Nema14 Motors
   - Nema17 AB Mounts
-  - Nema14 AWD AB Mounts
+  - Nema17 AWD AB Mounts
   - Mamababot.IO XY joints
 
 ----
