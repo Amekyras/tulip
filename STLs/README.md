@@ -4,11 +4,11 @@ All parts print with standard VORON Settings!
 
 ----
 
-## CHOOSE YOUR JEOURNEY
+## CHOOSE YOUR JOURNEY
 
 ----
 
-### OEM TULIP - The Path of Least Resistance
+### OEM Tulip - The Path of Least Resistance
 
 - One set of
   - AB Mounts
@@ -19,7 +19,7 @@ All parts print with standard VORON Settings!
 
 ----  
 
-### LIVE TULIP - The Intrepid Adventurer
+### LIVE Tulip - The Intrepid Adventurer
 
 - One set of
   - AB Mounts
@@ -30,7 +30,7 @@ All parts print with standard VORON Settings!
 
 ----
 
-### EXPERIMENTAL TULIP - The Undaunted Explorer
+### EXPERIMENTAL Tulip - The Undaunted Explorer
 
 - A Choice of optional parts are availible to you to experiment with
 - WARNING !!! This section is for those who have good knowllege of their printer, understand the CAD and work / assembly of these parts
