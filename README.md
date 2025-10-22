@@ -62,7 +62,7 @@ NEW Pin Hole Sizing for tulip should mean NO MORE REAMING! but if you still have
 CAD V37 Release
 
 XY Joints
- - Live idlers amended to use standard spacers (9mm) the addition on 1 x extra 0.5mm shim to the Live idler stack (thanx to snowflake on discord for spotting this error)
+ - Live idlers amended to use standard spacers (9mm) the addition on 1 x extra 0.5mm shim to the Live idler stack (thanx to snoWFLakEOs on discord for spotting this error)
 
 ----
 
