@@ -5,36 +5,34 @@
 >"See a pin and pick it up, and all day long you’ll have a pin!" - Stanley Howler, _Going Postal_, by Terry Pratchett
 
 ## A full pin mod for the AB motor mounts, XY gantry joints and front idler tensioners for the Voron v0.2
-
- - AB motors mounted solidly to the frame, meaning no more shunting them back and forth with a bulky tensioning nut.
- - Tension is now applied through an M3 screw in the front idlers, and ALL bearing stacks run on pins rather than screws.
- - Both MGN7H (stock) and MGN9C X rails are supported, WITH NO TRAVEL LOSS.
- - Pins are standard 3mm off-the-shelf sizing, for those unable to cut their own
- - LazyCam Support
- - Nema 17 AB Motor Mount Beta
+ - AB motors are mounted solidly to the frame, meaning no more shunting them back and forth with a bulky tensioning nut
+ - AB motor shafts are held in double shear with an extra bearing, lowering radial force on the motor bearings
+ - Tension is now applied through an M3 screw in the front idlers, and ALL bearing stacks run on pins rather than screws
+ - Both MGN7H (stock) and MGN9C X rails are supported, WITH NO TRAVEL LOSS
+ - Standard 3mm off-the-shelf pins, for those unable to cut their own
+ - LazyCam support
  - Fysetc X light gantry compatibility (use standard XY joints)
  - Mamabot.io X light gantry support
+ - Nema 17 AB Motor Mount Beta 
  - Nema 14 - 35mm Shaft Motor Mount Beta
  - Live Idler XY joints + Tension Idlers
 
-<img width="1564" height="1173" alt="V0 2R1 Tulip Mod master v121" src="https://github.com/user-attachments/assets/2fbd9163-f958-4847-a9b9-ca4beddba391" />
+## Renders
 
-<img width="1816" height="1154" alt="V0 2R1 Tulip Mod XY Joints" src="https://github.com/user-attachments/assets/753b7f14-46d7-499d-b2d4-d3ce51e3b4e8" />
+![](/documentation/images/V0.2R1%20Tulip%20Mod%20master%20v121.png)
 
-<p align="center">
-<img width="380" height="285" alt="V0 2R1 Tulip Mod idler tensioner" src="https://github.com/user-attachments/assets/6fa87c6c-3814-4fd2-a631-ddfdd83c8997" />
+![](/documentation/images/V0.2R1%20Tulip%20Mod%20XY%20Joints.png)
 
-<img width="380" height="285" alt="V0 2R1 Tulip Mod idler tensioner cut" src="https://github.com/user-attachments/assets/a64328b7-f22f-4baa-961b-cc4191e677d2" />
+| Idlers | XY Joints |
+| :---: | :---: |
+| ![](/documentation/images/V0.2R1%20Tulip%20Mod%20idler%20tensioner.png) | ![](/documentation/images/V0.2R1%20Tulip%20Mod%20XY%20Joint.png) |
+| ![](/documentation/images/V0.2R1%20Tulip%20Mod%20idler%20tensioner%20cut.png) | ![](/documentation/images/V0.2R1%20Tulip%20Mod%20Live%20XY%20Joints.png) |
 
-<img width="380" height="280" alt="V0 2R1 Tulip Mod XY Joint" src="https://github.com/user-attachments/assets/eb72eb83-b2a3-48d0-8724-a749e789f060" />
-
-<img width="380" height="280" alt="V0 2R1 Tulip Mod Live XY Joints" src="https://github.com/user-attachments/assets/a5248be2-73fa-402e-b857-f3677deccdbf" />
-
-<img width="740" height="560" alt="V0 2R1 Tulip Mod Live Idler Exploded" src="https://github.com/user-attachments/assets/7b5949db-d0bf-404d-a0cd-90b4e8954ca5" />
+![](/documentation/images/V0.2R1%20Tulip%20Mod%20Live%20Idler%20Exploded.png)
 
 ----
 
-> **Note - for LazyCam idlers you will require Some extra printed parts to complete found [here](https://www.printables.com/model/533483-voron-02-lazycams-tool-free-locking-idlers-models)**
+> **Note - for LazyCam idlers you will require some extra printed parts to complete found [here](https://www.printables.com/model/533483-voron-02-lazycams-tool-free-locking-idlers-models)**
 
 Parts required are; 
 
@@ -44,61 +42,73 @@ Parts required are;
 - LazyCams_C-B CamArm_v1.stl
 - LazyCams_C-B CamLock_v1.stl
 
+---
+
+## Bill of Materials (BOM)
+
+### Idler / Tensioner BOM
+
+| **Part** | **Quantity** | **Notes / Links** | 
+| :--- | :--- | :--- |
+| Pin M3x18mm | 2 | [KB-3D](https://kb-3d.com/store/hardware/143-3mm-bearing-steel-shafts-various-lengths-1642291225169.html) / [AliExpress](https://www.aliexpress.us/item/3256804639701799.html?spm=a2g0o.order_list.order_list_main.10.681a1802dQtwCu&gatewayAdapt=glo2usa) | 
+| M2x10 Self Tapper | 4 |  | 
+| M3 Hexnut | 4 |  | 
+| M3x0.5mm Washer / Shim | 4 |  | 
+| M3x10 BHCS | 4 |  | 
+| M3x12 BHCS | 2 |  | 
+| M3x35 BHCS | 2 |  | 
+| F623 Bearing | 4 |  | 
+
+---
+
+### AB Motor Mount BOM
+
+| **Part** | **Quantity** | **Notes / Links** | 
+| :--- | :--- | :--- |
+| 625-ZZ/2RS Bearing | 2 |  | 
+| GT2 20T 6mm Pulley | 2 |  | 
+| M3 Hexnut | 6 |  | 
+| M3 Threaded Insert | 4 |  | 
+| M3x0.5mm Washer / Shim | 20 |  | 
+| M3x8 BHCS | 2 |  | 
+| M3x10 BHCS | 4 |  | 
+| M3x12 BHCS | 4 |  | 
+| M3x30 BHCS | 6 |  | 
+| Pins M3x30mm | 4 | [KB-3D](https://kb-3d.com/store/hardware/143-3mm-bearing-steel-shafts-various-lengths-1642291225169.html) / [AliExpress](https://www.aliexpress.us/item/3256804639701799.html?spm=a2g0o.order_list.order_list_main.10.681a1802dQtwCu&gatewayAdapt=glo2usa) | 
+| F623 Bearing | 12 |  | 
+
+---
+
+### XY Joint BOM
+
+| **Part** | **Quantity** | **Notes / Links** | 
+| :--- | :--- | :--- |
+| M3x6 BHCS | 2 |  | 
+| M2x6 FHCS | 8 |  | 
+| M3x8 BHCS | 4 |  | 
+| Pins M3x30mm | 4 | [KB-3D](https://kb-3d.com/store/hardware/143-3mm-bearing-steel-shafts-various-lengths-1642291225169.html) / [AliExpress](https://www.aliexpress.us/item/3256804639701799.html?spm=a2g0o.order_list.order_list_main.10.681a1802dQtwCu&gatewayAdapt=glo2usa) | 
+| M3x0.5mm Washer / Shim | 16 |  | 
+| F623 Bearing | 8 |  | 
+
+---
+
+### Live Idler XY Joint BOM
+
+| **Part** | **Quantity** | **Notes / Links** | 
+| :--- | :--- | :--- |
+| M3x6 BHCS | 2 |  | 
+| M2x6 FHCS | 8 |  | 
+| M3x8 BHCS | 4 |  | 
+| XY Pins M3x30 | 4 | [KB-3D](https://kb-3d.com/store/hardware/143-3mm-bearing-steel-shafts-various-lengths-1642291225169.html), [AliExpress](https://www.aliexpress.us/item/3256804639701799.html?spm=a2g0o.order_list.order_list_main.10.681a1802dQtwCu&gatewayAdapt=glo2usa) | 
+| M3x0.5 Washer / Shim | 12 |  | 
+| F623 Bearing | 8 |  | 
+| 16T Solid Idler | 2 | [Alchemy3d](https://alchemy3d.de/products/active-idlers-5mm-id-16t-for-6mm-belt), [Filastruder](https://www.filastruder.com/collections/gates/products/gates-2gt-pulley-custom-no-grub-set-screw?variant=41243545174087), [3dkatten](http://3dkatten.eu/products/custom-16t-2gt-3mm-id-live-shaft-idler) | 
+
 ----
 
-NEW Pin Hole Sizing for tulip should mean NO MORE REAMING! but if you still have trouble fitting your pins then reffer to this guide
+NEW Pin Hole Sizing for Tulip should mean NO MORE REAMING! but if you still have trouble fitting your pins then refer to this guide
 
 > **Note - For PIN FITTING GUIDE you can find it [here](https://github.com/Amekyras/tulip/tree/main/PIN%20GUIDE)**
-
-----
-
-> **CHANGE LOG**
-
-
-----
-
-### 01/08/25
-
-CAD V37 Release
-
-XY Joints
- - Live idlers amended to use standard spacers (9mm) the addition on 1 x extra 0.5mm shim to the Live idler stack (thanx to SnoWFLakEOs on discord for spotting this error)
-
-----
-
-### 31/07/25
-
-CAD V36 Release
-
-- Welcome to Tulip 2.0 !!!
-
-AB mounts have been heavily Revised
-- NEW universal design means it will work with any rail combo
-- NEW (more) open frame design also helps with belting and visuals of motion system for easier diagnostics
-- NEW branding Logo's
-
-XY Joints
-- NEW M3x25 + Threaded Insert fixing method, this now gives a much improved and stronger joint between the lower and upper parts
-- NEW joining method also alows bearings to be serviced without removal of the whole gantry - simply unscrew and remove the tops for access
-- some geometry has been revised on all versions
-- Live Idler XY joint sports some NEW Features to add strength and stiffness
-- Live Idlers moved from Beta to Mainstream
-- MGN9H rail is no longer being supported
-
-Idler Tensioners
-- NEW crown tops added to all versions
-- tension marks added to all version
-- Logo has been moved to the front on all versions
-
-Spacer
-- Live idler spacer has now been adopted throught Tulip
-
-PicoBilical
-- added Picobilical STL's
-- removed bowden tube holder from "Cable_Tie_Point" due to potential belt rubbing issue
-
-S35 AB Mounts
-- these will be updated in the comming months
 
 ----
 
@@ -117,6 +127,3 @@ https://github.com/ruiqimao/VoronUsers/tree/v0.2-mgn9c/printer_mods/ruiqimao/V0.
 ----
 
 **special thanx for all thoes who have helped with feedback and improvement ideas to get Tulip as good as it is!**
-
-
-

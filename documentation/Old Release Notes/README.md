@@ -1,3 +1,50 @@
+> **CHANGE LOG**
+
+----
+
+### 01/08/25
+
+CAD V37 Release
+
+XY Joints
+ - Live idlers amended to use standard spacers (9mm) the addition on 1 x extra 0.5mm shim to the live idler stack (thanx to @SnoWFLakEOs for spotting this error)
+
+----
+
+### 31/07/25
+
+CAD V36 Release
+
+- Welcome to Tulip 2.0 !!!
+
+AB Mounts have been heavily revised
+- NEW universal design means it will work with any rail combo
+- NEW (more) open frame design also helps with belting and visuals of motion system for easier diagnostics
+- NEW branding logos
+
+XY Joints
+- NEW M3x25 + threaded insert fixing method, this now gives a much improved and stronger joint between the lower and upper parts
+- NEW joining method also alows bearings to be serviced without removal of the whole gantry - simply unscrew and remove the tops for access
+- Some geometry has been revised on all versions
+- Live idler XY joint sports some NEW Features to add strength and stiffness
+- Live idlers moved from Beta to Mainstream
+- MGN9H rail is no longer supported
+
+Idler Tensioners
+- NEW crown tops added to all versions
+- Tension marks added to all versions
+- Logo has been moved to the front on all versions
+
+Spacer
+- Live idler spacer has now been adopted throught Tulip
+
+PicoBilical
+- Added Picobilical STL's
+- Removed bowden tube holder from "Cable_Tie_Point" due to potential belt rubbing issue
+
+S35 AB Mounts
+- These will be updated in the coming months
+
 ----
 
 ### 01/12/24
