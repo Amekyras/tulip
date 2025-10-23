@@ -32,8 +32,8 @@ All parts print with standard VORON Settings!
 
 ### EXPERIMENTAL Tulip - The Undaunted Explorer
 
-- A Choice of optional parts are availible to you to experiment with
-- WARNING !!! This section is for those who have good knowllege of their printer, understand the CAD and work / assembly of these parts
+- A Choice of optional parts are available to you to experiment with
+- WARNING !!! This section is for those who have good knowledge of their printer, understand the CAD and work / assembly of these parts
 
   - S35 AB Mounts - For 35mm Shaft Nema14 Motors
   - Nema17 AB Mounts
