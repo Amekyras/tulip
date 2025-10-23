@@ -7,7 +7,7 @@
 CAD V37 Release
 
 XY Joints
- - Live idlers amended to use standard spacers (9mm) the addition on 1 x extra 0.5mm shim to the live idler stack (thanx to @SnoWFLakEOs for spotting this error)
+ - Live idlers amended to use standard spacers (9mm) the addition on 1 x extra 0.5mm shim to the live idler stack (thanks to @SnoWFLakE0s for spotting this error)
 
 ----
 
