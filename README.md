@@ -18,7 +18,7 @@
  - Live Idler XY joints + Tension Idlers
 
 ## Installation
-Go to the [Releases Page](https://github.com/SnoWFLakE0s/tulip/releases) and download the .zip file from the latest release.
+Go to the [Releases Page](https://github.com/Amekyras/tulip/releases) and download the .zip file from the latest release.
 
 ## Renders
 
