@@ -17,6 +17,9 @@
  - Nema 14 - 35mm Shaft Motor Mount Beta
  - Live Idler XY joints + Tension Idlers
 
+## Installation
+Go to the [Releases Page](https://github.com/Amekyras/tulip/releases) and download the .zip file from the latest release.
+
 ## Renders
 
 ![](/documentation/images/V0.2R1%20Tulip%20Mod%20master%20v121.png)
