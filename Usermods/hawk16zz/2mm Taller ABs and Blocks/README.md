@@ -1,4 +1,6 @@
-This mod adds 2mm to the height of A/B tops and the tensioner block parts to addess issues with the LDO fridge door kit sitting proud on some builds or if you need them for full height panels.
+2026-09-06: Updated for Tulip v2.1
+
+This mod adds 2mm to the height of A/B tops and the tensioner block parts to address issues with the LDO fridge door kit sitting proud on some builds or if you need them for full height panels.
 
 The increase in height also means you don't need the lazycam specific tensioner carriage as they are no long are in the path of the cam lever arm.
 
